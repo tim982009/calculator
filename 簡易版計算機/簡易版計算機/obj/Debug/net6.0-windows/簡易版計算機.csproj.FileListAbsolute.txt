@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\bin\Debug\net6.0-windows\簡易版計算機.exe
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\bin\Debug\net6.0-windows\簡易版計算機.deps.json
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\bin\Debug\net6.0-windows\簡易版計算機.runtimeconfig.json
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\bin\Debug\net6.0-windows\簡易版計算機.dll
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\bin\Debug\net6.0-windows\簡易版計算機.pdb
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\obj\Debug\net6.0-windows\簡易版計算機.Form1.resources
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\obj\Debug\net6.0-windows\簡易版計算機.csproj.GenerateResource.cache
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\obj\Debug\net6.0-windows\簡易版計算機.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\obj\Debug\net6.0-windows\簡易版計算機.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\obj\Debug\net6.0-windows\簡易版計算機.AssemblyInfo.cs
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\obj\Debug\net6.0-windows\簡易版計算機.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\obj\Debug\net6.0-windows\簡易版計算機.dll
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\obj\Debug\net6.0-windows\refint\簡易版計算機.dll
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\obj\Debug\net6.0-windows\簡易版計算機.pdb
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\obj\Debug\net6.0-windows\簡易版計算機.genruntimeconfig.cache
+C:\Users\User\source\repos\簡易版計算機\簡易版計算機\obj\Debug\net6.0-windows\ref\簡易版計算機.dll
